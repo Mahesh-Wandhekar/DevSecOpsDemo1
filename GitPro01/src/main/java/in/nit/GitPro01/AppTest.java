@@ -14,6 +14,7 @@ public class AppTest
     	System.out.println("Addition is :"+ar.Add(100, 200));
     	System.out.println("substration is :"+ar.Sub(100,200));
     	System.out.println("multiplication is :"+ar.Mul(100,50));
+    	//System.out.println("Division is :"+ ar.Div(199,20));
         
     }
 }
