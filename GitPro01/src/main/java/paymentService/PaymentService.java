@@ -10,4 +10,7 @@ public class PaymentService {
 		System.out.println("PaymentService.dopaymentDebitcard()");
 		return 0;
 	}
+	public static void dopaymentUPI() {
+		System.out.println("PaymentService.dopaymentUPI()");
+	}
 }
