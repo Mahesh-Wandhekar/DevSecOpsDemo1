@@ -1,3 +1,4 @@
+
 package paymentService;
 
 public class PaymentService {
@@ -14,6 +15,6 @@ public class PaymentService {
 		System.out.println("PaymentService.dopaymentUPI()");
 	}
 	public void dopaymentCash() {
-		
+		System.out.println("PaymentService.dopaymentCash()");
 	}
 }
