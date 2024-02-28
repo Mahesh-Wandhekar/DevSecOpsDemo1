@@ -13,4 +13,7 @@ public class PaymentService {
 	public static void dopaymentUPI() {
 		System.out.println("PaymentService.dopaymentUPI()");
 	}
+	public void dopaymentCash() {
+		
+	}
 }
